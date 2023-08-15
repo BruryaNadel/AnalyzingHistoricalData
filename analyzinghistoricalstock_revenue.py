@@ -109,5 +109,5 @@ make_graph(tesla_data, tesla_revenue, 'Tesla')
 
 """###Question 6: Plot GameStop Stock Graph"""
 
-make_graph(gme_data, gme_revenue, 'GameStop')
+make_graph(gme_data, gme_revenue, 'GameStock')
 
